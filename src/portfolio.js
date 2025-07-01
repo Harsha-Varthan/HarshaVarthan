@@ -22,7 +22,7 @@ const illustration = {
 
 const greeting = {
   username: "Harsha Varthan",
-  title: "Hi, I'm Harsha 👋",
+  title: "Hi, I'm Harsha Varthan",
   subTitle: emoji(
     "Data Engineer | Backend Developer | Passionate about building scalable pipelines, cloud analytics, and automation in the healthcare and big data space."
   ),
