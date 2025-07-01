@@ -22,9 +22,9 @@ const illustration = {
 
 const greeting = {
   username: "Harsha Varthan",
-  title: "Hi, I'm Harsha Varthan",
+  title: "Hi, I'm Harsha",
   subTitle: emoji(
-    "Data Engineer | Backend Developer | Passionate about building scalable pipelines, cloud analytics, and automation in the healthcare and big data space."
+    "Data Engineer | Business Analyst | Passionate about building scalable pipelines, automation and dashboard visualization in the big data space."
   ),
   //esumeLink: "https://drive.google.com/file/d/1AJpPSoCJnf47iVsbKxaxs3BfYDeWtsId/view?usp=sharing",
   displayGreeting: true,
@@ -132,6 +132,12 @@ const educationInfo = {
       duration: "September 2023 - May 2025",
       desc: "Studying distributed systems, visualization, and large-scale data processing.",
       descBullets: ["Worked as Program Support Specialist on MET & ERP system modernization"],
+    },
+    {
+      schoolName: "Anna University - MIT Campus",
+      logo: require("./assets/images/annaunivLogo.png"),
+      subHeader: "Bahelor of Engineering",
+      duration: "August 2017 - May 2021",
     },
   ]
 };
